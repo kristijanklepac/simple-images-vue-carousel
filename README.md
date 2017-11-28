@@ -1,5 +1,5 @@
 # simple-images-vue-carousel
-Created in Vue.js
+Created in Vue.js and Bootstrap. No Jquery!
 
 Example. How to create 3 images carousel with vue.js
 
